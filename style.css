@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5e6cb; /* Cute brown background */
+}
+
+header {
+    background-color: #ae6a3d; /* Cute red */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #ae6a3d; /* Cute red */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.menu-item {
+    margin-bottom: 30px;
+}
+
+.drink-image {
+    width: 150px;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
